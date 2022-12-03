@@ -1,0 +1,2 @@
+8-bit Minute Counter (D1-D8): 	0x00 -> 0xFF
+8-bit ID (D9-D16): 		0xFF
