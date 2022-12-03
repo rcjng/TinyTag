@@ -1,4 +1,4 @@
-# TinyTag: A Low-Power Bluetooth Low Energy Tracking Device
+# TinyTag: A Low-Power, Motion-Based, Bluetooth Low Energy Tracking Device
 
 ## General Description
 
