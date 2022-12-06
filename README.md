@@ -24,6 +24,6 @@ The ultra-low power consumption is achieved through many traditional embedded sy
 
 ### Footnotes
 
-$1.$ TinyTag BLE messages can be received and sent by any nearby smartphone via a Bluetooth proximity detection app such as the [`nRF Toolbox` smartphone app](https://www.nordicsemi.com/Products/Development-tools/nrf-toolbox).
+$1.$ TinyTag BLE messages can be received and sent by any nearby smartphone via a Bluetooth proximity detection app such as the [nRF Toolbox](https://www.nordicsemi.com/Products/Development-tools/nrf-toolbox) smartphone app.
 
-$2.$ Measurements were gathered using the `AVHzY CT-2` power meter during normal user operation.
+$2.$ Measurements were gathered using the [AVHzY CT-3](https://store.avhzy.com/index.php?route=product/product&product_id=51) power meter during normal user operation.
